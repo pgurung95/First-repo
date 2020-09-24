@@ -1,5 +1,3 @@
-var timeBlocks = $(".container");
-
 var today = moment().format('MMMM Do YYYY');
 
 var timeDiv = $("#currentDay");
